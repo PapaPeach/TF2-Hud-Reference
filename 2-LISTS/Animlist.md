@@ -87,9 +87,9 @@ DamagedPlayer | Did damage to someone
 SpyWarningFlash |
 SpyWarningFlashLoop |
 SpyWarningFlashEnd |
-HudReadyPulse |
-HudReadyPulseLoop |
-HudReadyPulseEnd |
+HudReadyPulse | Pulses the ready up instructions in tournament or MVM mode
+HudReadyPulseLoop | Loops for HudReadyPulse
+HudReadyPulseEnd | Ends the ready up pulse when player is ready
 RespecEarnedPulse |
 RespecEarnedPulseLoop |
 RespecEarnedPulseEnd |
@@ -202,8 +202,8 @@ SurveyHideSequence |
 MapVoted |
 WinningNextMapVote |
 LosingNextMapVote |
-QuestMap_Start |
-QuestMap_MapLoaded |
+QuestMap_Start | Show contracker and its components
+QuestMap_MapLoaded | Clear the static
 QuestMap_LoadingLoop |
 QuestMap_StaticFadeOut |
 QuestMap_StaticBar1Loop |
@@ -230,12 +230,12 @@ QuestReport_ContractComplete |
 QuestReport_ContractProgress |
 ObjectiveCompletionFanfare |
 ObjectiveCompletionFanfareEnd |
-RegionZoom |
+RegionZoom | Entering a folder in the contracker
 StartRegionZoomIn |
 StartRegionZoomOut |
 EndRegionZoomIn |
 EndRegionZoomOut |
-DelayQuestMapClose |
+DelayQuestMapClose | Close contracker when power switch is set to off
 
 ## hudanimations.txt
 
