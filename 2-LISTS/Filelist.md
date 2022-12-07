@@ -102,12 +102,12 @@ disguisestatuspanel.res | **Current spy disguise status** *[also in HudLayout.re
 dynamicrecipepanel.res | **Killsteak Kits recipe menu**
 enemycountpanel.res | **MvM - attacking robots wave icons**
 explanationpopup.res | **Explanation messages box properties**
-flagcalloutpanel.res | 
+flagcalloutpanel.res |
 flagstatus.res | **Flag icon and arrow** *[part of hudobjectiveflagpanel.res]*
 freezepanelcallout.res | **Indicates your body parts after death** *[also in HudLayout.res > FreezePanelCallout]*
 freezepanelkillerhealth.res | **Enemy health displayed on the freezecam** *[part of freezepanel_basic.res]*
 freezepanel_basic.res | **Freezecam of your killer** *[also in HudLayout.res > FreezePanel]*
-giveawayitempanel.res | 
+giveawayitempanel.res |
 globalchat.res | **Dashboard's party chat**
 globalexplanations.res | **Explanations for casual, competitive, tutorial, warpaints, loadout, store**
 healthiconpanel.res | **Teammates health displayed above their head** *[only visible with tf_hud_target_id_disable_floating_health "0"]*
@@ -217,14 +217,14 @@ itemrenameconfirmationdialog.res | **Name Tag - Description Tag confirmation men
 itemrenamedialog.res | **Name Tag - Description Tag appliaction menus**
 itemrenameinvaliddialog.res | **Name Tag - Description Tag appliaction failed menu**
 itemselectionpanel.res | **Loadout item/weapon selection menu**
-itemslotpanel.res | 
+itemslotpanel.res |
 layeredmappanel.res | *No longer in use*
 layeredmappanelitem.res | *No longer in use*
 layeredmappaneltooltip.res | *No longer in use*
 leaderboardentry.res | **Duels Leaderboard displayed in the loading screen**
 leaderboardentryrank.res | **Leaderboard displayed in the competitive menu**
-leaderboardentryscore.res | 
-leaderboardspreadentry.res | 
+leaderboardentryscore.res |
+leaderboardspreadentry.res |
 loadoutpresetpanel.res | **Loadout's A - B - C - D buttons**
 lobbycontainerframe.res | *No longer in use*
 lobbycontainerframe_casual.res | *No longer in use*
@@ -380,7 +380,7 @@ base_active.res | **Base file used when a building can be actively built**
 base_active_teleport_target.res | **Eureka effect teleport target**
 base_already_built.res | **Base file used when a building is already built**
 base_cant_afford.res | **Base file used when a building can't be afforded**
-base_selectable.res | 
+base_selectable.res |
 base_unavailable.res | **Base file used for unavailable buildings** *[can only happen during the tutorial]*
 base_unavailable_teleport_target.res | **Eureka effect teleport target unavailable**
 dispenser_active.res | **Dispenser active panel**
@@ -417,7 +417,7 @@ base_active.res | **PipBoy Base file used when a building can be actively built*
 base_active_teleport_target.res | **PipBoy Eureka effect teleport target**
 base_already_built.res | **PipBoy Base file used when a building is already built**
 base_cant_afford.res | **PipBoy Base file used when a building can't be afforded**
-base_selectable.res | 
+base_selectable.res |
 base_unavailable.res | **PipBoy Base file used for unavailable buildings** *[can only happen during the tutorial]*
 base_unavailable_teleport_target.res | **PipBoy Eureka effect teleport target unavailable**
 dispenser_active.res | **PipBoy Dispenser active panel**
@@ -657,7 +657,7 @@ messageboxdialog | **Generic confirm action message**
 notificationqueuepanel.res | **Controls the buffer time between present ingame notifications**
 notificationspresentpanel.res | **Shows up when you are in the loadout menus such as backpack and there is a new notification unchecked**
 notificationtoastcontainer.res | **Ingame popup notification, contains the background and parent element of genericnotificationtoast.res**
-notificationtoastcontrol.res | **Main menu notification accept/decline buttons** 
+notificationtoastcontrol.res | **Main menu notification accept/decline buttons**
 paintkitconsumedialog.res | **PaintKit redeem menu**
 questdefinitionviewpanel.res |
 questdetailspanel.res |
@@ -788,9 +788,9 @@ lineitem_item.res |
 lineitem_objective.res |
 lineitem_points.res |
 questitempanel_base.res |
-questitemtrackerpanel_base.res |
-questitemtrackerpanel_ingame_base.res |
-questitemtrackerpanel_questlog_base.res |
+questitemtrackerpanel_base.res | **Base file for contract panel**
+questitemtrackerpanel_ingame_base.res | **Base file for contract progress bars**
+questitemtrackerpanel_questlog_base.res | **Base file for contract objective labels**
 questobjectivepanel_ingame_base.res |
 questobjectivepanel_questlog_base.res |
 questobjectivescorer.res |
@@ -863,24 +863,24 @@ questobjectivepanel_questlog.res |
 
 File | Description
 ---- | -----------
-questitempanel_pauling_base.res | 
-questitempanel_pauling_community_map_1.res | 
-questitempanel_pauling_community_map_2.res | 
-questitempanel_pauling_community_map_3.res | 
-questitempanel_pauling_community_map_4.res | 
-questitempanel_pauling_cp.res | 
-questitempanel_pauling_demo.res | 
-questitempanel_pauling_engineer.res | 
-questitempanel_pauling_headhunter.res | 
-questitempanel_pauling_heavy.res | 
-questitempanel_pauling_medic.res | 
-questitempanel_pauling_payload.res | 
-questitempanel_pauling_playanyclass.res | 
-questitempanel_pauling_pyro.res | 
-questitempanel_pauling_scout.res | 
-questitempanel_pauling_sniper.res | 
-questitempanel_pauling_soldier.res | 
-questitempanel_pauling_spy.res | 
+questitempanel_pauling_base.res |
+questitempanel_pauling_community_map_1.res |
+questitempanel_pauling_community_map_2.res |
+questitempanel_pauling_community_map_3.res |
+questitempanel_pauling_community_map_4.res |
+questitempanel_pauling_cp.res |
+questitempanel_pauling_demo.res |
+questitempanel_pauling_engineer.res |
+questitempanel_pauling_headhunter.res |
+questitempanel_pauling_heavy.res |
+questitempanel_pauling_medic.res |
+questitempanel_pauling_payload.res |
+questitempanel_pauling_playanyclass.res |
+questitempanel_pauling_pyro.res |
+questitempanel_pauling_scout.res |
+questitempanel_pauling_sniper.res |
+questitempanel_pauling_soldier.res |
+questitempanel_pauling_spy.res |
 
 ## resource/ui/training/
 
@@ -921,7 +921,7 @@ detailspanel.res | **Replay details page, when a replay is selected**
 listthumbnail.res | **Replay thumbnail**
 mainpanel.res | **Header and footer, similiar to charinfopanel.res**
 playbackpanel.res | **Video playback panel**
-playbackpanelslideshow.res | 
+playbackpanelslideshow.res |
 previewpanel.res | **Replay preview panel, when hovering a replay**
 recordspanel.res | **Replay's class played, score etc...**
 renderdialog.res | **Replay render dialogs**
